@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  header {
+    background-color: #f0f0f0;
+    padding: 1em;
+    text-align: center;
+  }
+  
+  .produto {
+    border: 1px solid #ccc;
+    padding: 1em;
+    margin-bottom: 1em;
+  }
+  
+  .produto img {
+    max-width: 200px;
+  }
